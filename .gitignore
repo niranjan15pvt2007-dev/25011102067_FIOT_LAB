@@ -1,0 +1,16 @@
+﻿# Keil µVision temporary and build files
+*.lst
+*.obj
+*.iex
+*.lnp
+*.mpf
+*.map
+*.bak
+*.dep
+*.uvguix.*
+Objects/*.lst
+Objects/*.obj
+Objects/*.lnp
+Objects/*.mpf
+Objects/*.map
+Listings/
