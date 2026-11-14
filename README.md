@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Foundations of Internet of Things (FIoT) --- Laboratory Assignments
 
 **Continuous Assessment Tasks \| CAT 2--CAT 15**
